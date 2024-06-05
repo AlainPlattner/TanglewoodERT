@@ -14,7 +14,7 @@ To activate pygimli, run
 
 `conda activate pg`
 
-Then install pyBERT
+Then install pyBERT:
 
 `conda config --add channels gimli --add channels conda-forge`
 
