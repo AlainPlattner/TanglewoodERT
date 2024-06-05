@@ -43,3 +43,5 @@ and navigate to the directory where you have the notebooks and data.
 Open the `invert.ipynb` notebook to run the installations and the `plotResults.ipynb` to recreate the paper figure.
 
 **Please note that the inversion can take quite a while because the mesh is very fine. You can change the mesh parameters to run a faster inversion.**
+
+**For some reason, the jupyter notebook panel to create the figure needs to be rerun. Otherwise the figure doesn't show up. I don't understand why...
